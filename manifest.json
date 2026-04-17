@@ -1,0 +1,23 @@
+{
+  "short_name": "Adept Play",
+  "name": "Adept Play | Elite Tournament Arena",
+  "icons": [
+    {
+      "src": "https://dummyimage.com/192x192/ff6b00/000000.png&text=AP",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://dummyimage.com/512x512/ff6b00/000000.png&text=AP",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0A0A0B",
+  "display": "standalone",
+  "theme_color": "#FF6B00",
+  "description": "Premium Mobile-First Gaming Tournament Platform"
+}
